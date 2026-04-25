@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DSA & FLASK
 - 👯 I’m looking to collaborate on projects related to full stack or automation
 - 💬 Ask me about Automation,Python,SQL
-- 😄 Pronouns: He/Him/Beni/Beniwal
+- 😄 Pronouns: He/Him
