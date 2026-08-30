@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on eStore website
-- 🌱 I’m currently learning DSA & FLASK
-- 👯 I’m looking to collaborate on projects related to full stack or automation
+- 🌱 I’m currently learning DSA & Django
+- 👯 I’m looking to collaborate on projects related to full stack or automation or analysis
 - 💬 Ask me about Automation,Python,SQL
 - 😄 Pronouns: He/Him
